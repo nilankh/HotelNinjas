@@ -59,6 +59,11 @@ they are not speciific to any specific area
     color: #333;
 }
 
+.btn-light {
+    background: #f4f4f4;
+    color: #333;
+}
+
 /* Navbar */
 #navbar {
     background: #333;
@@ -120,4 +125,16 @@ they are not speciific to any specific area
 #showcase .showcase-content p{
     padding-bottom: 20px;
     line-height: 1.7em;
+}
+
+/* Home Info */
+#home-info {
+    height: 400px;
+
+}
+#home-info .info-img {
+    float: left;
+    width: 50%;
+    background: url('../img/photo-1.jpg') no-repeat;
+    min-height: 100%;
 }
