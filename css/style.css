@@ -51,7 +51,12 @@ they are not speciific to any specific area
     padding: 13px 20px;
     border: none;
     /* button by default has border so that y we have made it to none */
-    
+    cursor: pointer;
+}
+
+.btn:hover {
+    background: #f7c08a;
+    color: #333;
 }
 
 /* Navbar */
