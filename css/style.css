@@ -160,3 +160,7 @@ they are not speciific to any specific area
     padding: 50px 30px;
     overflow: hidden;
 }
+
+#home-info .info-content p {
+    padding-bottom: 30px;
+}
