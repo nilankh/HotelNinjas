@@ -43,6 +43,17 @@ they are not speciific to any specific area
     font-size: 20px;
 }
 
+.btn {
+    display: inline-block;
+    font-size: 18px;
+    color: #fff;
+    background: #333;
+    padding: 13px 20px;
+    border: none;
+    /* button by default has border so that y we have made it to none */
+    
+}
+
 /* Navbar */
 #navbar {
     background: #333;
@@ -99,4 +110,9 @@ they are not speciific to any specific area
     font-size: 60px;
     line-height: 1.2em;
     
+}
+
+#showcase .showcase-content p{
+    padding-bottom: 20px;
+    line-height: 1.7em;
 }
