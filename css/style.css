@@ -23,3 +23,27 @@ h1, h2, h3 {
 p {
     margin: 10px 0;
 }
+
+/* Navbar */
+#navbar {
+    background: #333;
+    color: #fff;
+    overflow: auto;
+    /* idhr text dikhna band ho jyga q ki wo links h islia hme specific link pe add krna hoga */
+}
+
+#navbar a {
+    color: #fff;
+    /* Now the text will be viisible */
+}
+
+#navbar h1 {
+    float: left;
+    padding-top: 20px;
+}
+
+#navbar ul {
+    list-style: none;
+    float: right;
+    
+}
