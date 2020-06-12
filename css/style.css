@@ -47,3 +47,18 @@ p {
     float: right;
     
 }
+
+#navbar ul li {
+    float: left;
+}
+
+#navbar ul li a {
+    display: block;
+    padding: 20px;
+     text-align: center;  /*just making sure */
+}
+
+#navbar ul li a:hover {
+    background: #444;
+    color: #f7c08a;
+}
