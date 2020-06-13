@@ -82,6 +82,15 @@ they are not speciific to any specific area
     clear: both;/* ye islia kr rhe h reset taaki aage kahi dikat na ho jaise footer me isko hata ke rkro smjh aayega */
 }
 
+.l-heading {
+    font-size: 40px;
+}
+
+/* Padding */
+.py-1 { padding: 10px 0; }
+.py-2 { padding: 20px 0; }
+.py-3 { padding: 30px 0; }
+
 /* Navbar */
 #navbar {
     background: #333;
@@ -183,6 +192,28 @@ they are not speciific to any specific area
     margin-bottom: 10px;
 }
 
+/* About */
+#about-info .info-right {
+    float: right;
+    width: 50%;
+    min-height: 100%;
+}
+
+#about-info .info-right img {
+    display: block;
+    margin: auto;
+    width: 70%;
+    border-radius: 50%;
+
+}
+
+#about-info .info-left {
+    float: left;
+    width: 50%;
+    min-height: 100%;
+}
+
+
 /* Footer */
 #main-footer {
     text-align: center;
@@ -190,3 +221,4 @@ they are not speciific to any specific area
     color: #fff;
     padding: 20px;
 }
+
