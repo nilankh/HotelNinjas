@@ -73,8 +73,13 @@ they are not speciific to any specific area
     color: #333;
 }
 .bg-primary {
-    background: #333;
-    color: #f7c08a;
+    background: #f7c08a;
+    color: #333;
+    
+}
+
+.clr {
+    clear: both;/* ye islia kr rhe h reset taaki aage kahi dikat na ho jaise footer me isko hata ke rkro smjh aayega */
 }
 
 /* Navbar */
@@ -163,4 +168,25 @@ they are not speciific to any specific area
 
 #home-info .info-content p {
     padding-bottom: 30px;
+}
+
+/* Features  */
+
+.box {
+    float: left;
+    width: 33.3%;
+    padding: 50px;
+    text-align: center;
+}
+
+.box i {
+    margin-bottom: 10px;
+}
+
+/* Footer */
+#main-footer {
+    text-align: center;
+    background: #444;
+    color: #fff;
+    padding: 20px;
 }
