@@ -217,6 +217,7 @@ they are not speciific to any specific area
 #testimonials {
     height: 600px;
     background: url('../img/test-bg.jpg') no-repeat center center/cover;
+    padding: 100px;
 }
 #testimonials  h2 {
     color: #fff;
@@ -228,6 +229,7 @@ they are not speciific to any specific area
     padding: 20px;
     margin-bottom: 40px;
     border-radius: 5px;
+    opacity: 0.9;
     
 }
 
