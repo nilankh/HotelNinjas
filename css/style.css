@@ -104,7 +104,7 @@ they are not speciific to any specific area
     /* Now the text will be viisible */
 }
 
-#navbar h1 {
+#navbar .logo {
     float: left;
     padding-top: 20px;
 }
